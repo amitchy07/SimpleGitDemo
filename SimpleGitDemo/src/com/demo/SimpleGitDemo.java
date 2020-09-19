@@ -9,6 +9,10 @@ public class SimpleGitDemo {
 		{
 			System.out.println("Simple Git Demo Project");
 		}
+		else if(flag)
+		{
+			System.out.println("Simple Git demo else portion");
+		}
 		else
 		{
 			System.out.println("Simple Git demo else portion");
